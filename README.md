@@ -17,3 +17,7 @@ http://www.openrehearsal.co.uk
 4) rails db:create db:migrate
 5) rails s
 6) Go to localhost:3000
+
+![open-rehearsal2](https://user-images.githubusercontent.com/62878600/116698854-c17be480-a9bc-11eb-86b4-3a2a759dc839.png)
+![open-rehearsal3](https://user-images.githubusercontent.com/62878600/116698855-c2147b00-a9bc-11eb-8275-bc78d82c5a7b.png)
+![open-rehearsal4](https://user-images.githubusercontent.com/62878600/116698857-c2ad1180-a9bc-11eb-8188-c2ce2d87a53d.png)
